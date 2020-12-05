@@ -1,0 +1,156 @@
+Data Analyst - Geotab
+
+Who we are:
+
+Geotab is a global leader in IoT and connected transportation and certified “Great Place to Work.” We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our communities.
+
+Geotab is advancing security, connecting commercial vehicles to the internet and providing web-based analytics to help customers better manage their fleets. Geotab’s open platform and Marketplace, offering hundreds of third-party solution options, allows both small and large businesses to automate operations by integrating vehicle data with their other data assets. Processing billions of data points a day, Geotab leverages data analytics and machine learning to improve productivity, optimize fleets through the reduction of fuel consumption, enhance driver safety and achieve strong compliance to regulatory changes.
+
+Our team is growing and we’re looking for people who follow their passion, think differently and want to make an impact. Join us for a fulfilling career with opportunities to innovate, great benefits, and our fun and inclusive work culture. Reach your full potential with Geotab. To see what it’s like to be a Geotabber, follow us @InsideGeotab on Instagram, Twitter or Facebook.
+
+Who we are looking for:
+
+We are looking for Data Analysts who can help us discover value out of our rich and large datasets. Our ideal team member will have the mathematical and statistical expertise you’d expect, but a natural curiosity and creative mind that’s not so easy to find. As you mine, interpret and clean our data, we will rely on you to ask questions, connect the dots and uncover opportunities that lie hidden within, all with the ultimate goal of realizing the data’s full potential.
+
+What are the details of this position:
+
+The Data Analyst will join RMA team under Operations and will analyze well-defined sets of data using a variety of different tools to answer tangible business needs and find meaningful insights. The position will understand how internal departments can directly benefit from the analysis and develop products from these results. The position works closely with Data professionals within the Data & Analytics Teams.
+Duties and Tasks/Essential Functions:
+Examine large data sets to identify trends, develop charts, and creative visual presentations to help businesses make more strategic decisions.
+Maintain data systems and databases.
+Utilize statistical tools to interpret data sets and prepare reports that effectively communicate trends, patterns, and predictions based on relevant findings.
+Write SQL queries to find answers to complex business questions.
+Identify any data quality issues and partialities in data acquisition.
+Coordinate with the engineering team to gather incremental new data.
+Process, cleanse and verify the integrity of data used for analysis.
+Use data mining, model building, and other analytical techniques to support internal initiatives.
+Assist the internal technical departments by providing meaningful insight using datasets.
+Work with data scientists and leverage machine learning models that have been developed against Geotab's big data environment.
+Experience/Skills Required:
+0-5 years experience as a Data Analyst or a similar role.
+3-5 years experience with SQL.
+3-5 years experience with data science tools (e.g Python, Pandas, NumPy).
+Post-secondary Degree/Diploma specialization in Computer Science, Software Engineering, Science, Mathematics or a related field.
+Experience working with big data and an understanding of techniques used to extract value out of very large datasets.
+Experience working closely with business analysts to arrive at data solutions.
+Experience with database design and writing queries.
+Familiarity with machine learning concepts is an asset.
+Familiarity with Scikit-learn, Tensorflow is an asset.
+Why job seekers choose Geotab:
+
+Work from home and flex work arrangements
+Baby bonus
+Home office reimbursement program
+Online learning and networking opportunities
+Electric vehicle purchase incentive program
+Competitive medical and dental benefits (full-time employees only)
+Retirement savings program (full-time employees only)
+
+Our Core Values:
+
+At Geotab, we understand that the world is always changing and that we need to change with it. Geotab has adopted a hybrid model for working, including a flexible work from home program, with the opportunity to work in our safe, clean offices. Remote work is supported with cloud-based applications, collaboration tools and asynchronous working. The health and safety of employees are a top priority. We encourage work-life balance and keep the Geotab culture going strong with online social events, chat rooms and gatherings. Join us and help reshape the future of technology!
+
+
+
+
+
+
+Data Analyst - Dialpad
+
+Dialpad is the most modern business communications company in the industry. Our products range from conference calling, to phone systems to contact center solutions that are all built with the end-user in mind. We allow workers to be productive from anywhere on any device and have moved all the power of an on-premise phone system or contact center to the cloud to be accessed and used by modern workers in today's Work from Anywhere environment.
+
+Who We Are
+
+At Dialpad, work isn't a place you go, it's a thing you do. With offices in San Francisco, San Ramon, Austin, Raleigh, Vancouver, Waterloo, Tokyo, London, Sydney and Bangalore, we truly believe in finding the best talent everywhere. We also embrace the Work from Home movement and are just as happy hiring great talent from anywhere if they choose to work from home rather than in an office.
+
+With over $220 million in funding from OMERS Growth Equity, ICONIQ Capital, GV, Andreessen Horowitz, Felicis Ventures, Work-Bench, Scale Ventures and other top VCs, Dialpad attracts top engineers from companies like Microsoft and Google, and every member of our team plays an essential role in creating dynamic products that enable workers to be productive from anywhere!
+
+About the Role:
+
+The machine learning team is responsible for building all the models used to deliver our Voice Intelligence AI technology. We are looking for a Data Analyst who will support our Data Science, Speech Recognition, and Data Engineering teams to help deliver valuable insights to customers. The ideal person has excellent critical thinking skills, attention to detail, can handle large data sets, and can work in the gap between business stakeholders and speech/language scientists.
+
+The data analyst will work closely with the Speech and Natural Language Processing teams to do insightful analysis across huge collections of conversations to help identify trends in our transcriptions, how we can reduce the bias in our ASR systems, and other areas where we can improve our transcription and customer experience.
+
+The work is a mix of data exploration, hypothesis testing, database administration, data analysis, and business intelligence. Ideally, you have experience manipulating large data sets, have some knowledge of machine learning practices and data requirements, and are comfortable operating in an agile environment. If you're inspired by innovation and you like working with a smart, talented, generally awesome team, we'd love to hear from you!
+
+Responsibilities:
+
+Ability and desire to deeply understand our users' point of view
+Ability to work with scientists, linguists, and engineers to take and generate interesting questions and turn them into interesting stories told with data
+Given a use-case be able to recommend and source the required data independently
+Build and maintain views that simplify queries for the AI team
+Start with an ad hoc proof-of-concept (what does the data tell us about this question?) then turn it into a process that we can run on a regular basis
+Requirements:
+
+3+ years of experience as a data analyst or similar quantitative role.
+Excellent communicator and listener
+History of delivering impactful insights
+Excellent organizational, analytical, and research skills
+Flexible with regard to changing priorities & business needs.
+Advanced in SQL
+Sound statistical skills, ability to review experimental designs, and test for significance.
+Coursework in Mathematics and Statistics
+Bonus points for:
+
+Experience with Python (or another scripting language) is a plus
+Expertise or experience in Linguistics, Natural Language Processing or Speech Recognition
+Experience with B2B sales and support scenarios
+About Us
+
+Joining our team means collaborating with people that aren't just passionate about their work but about Argentine tango, musicals, sushi burritos, comic books - you name it. Because if you're going to redefine the status quo, you need a group of people hungry to do more, to see more, and be more than where they started.
+
+There is no idea too crazy and no task too small — we work together to make things we're proud of.
+
+Compensation & Equity
+
+Teamwork makes the dream work. We recognize that our dedicated team members are what make us successful. That's why we offer competitive salaries in addition to stock options.
+
+Healthcare
+
+An apple a day keeps the doctor away - and it doesn't hurt that we offer 100% paid medical, dental, and vision plans for all employees.
+
+Reimbursements
+
+We offer a monthly stipend to help cover your cell phone, home internet, and even gym membership costs.
+
+Education
+
+We believe in your future as much as you do! That's why we offer a yearly stipend for continued learning and education expenses.
+
+Location, Location, Location
+
+San Francisco <> San Ramon <> Austin <> Raleigh <> Vancouver <> Kitchener <> Tokyo <> New York <> Bangalore. From coast to coast, our offices are nestled in active and growing downtown areas
+
+Dialpad is an equal opportunity employer; we believe in creating a community of inclusion and an environment free from discrimination or harassment.
+
+
+
+Geotab encourages applications from all qualified candidates. Geotab is committed to accommodating persons with disabilities throughout the interview, selection and employment process. If you require accommodation at any stage of the application process or want more information about our accommodation policies and practices, please contact us at careers@geotab.com.
+
+
+
+
+Data Analyst - Wellington-Altus Private Wealth - Winnipeg, MB
+
+Wellington-Altus is currently recruiting for a Data Analyst position. The Data Analyst will work with the Wellington Labs team to provide data solutions to power business applications.
+In this role, you will work on projects in a growing organization with opportunities to address problems needing creative solutions and models. You will be working on bringing together different data sets from across locations and modeling data to unlock actionable insights that help stakeholders formulate and answer business questions. You will collaborate closely with stakeholders from technical solutions engineering, product programs, vendor operations, support operations, and support experience teams.
+As a Data Analyst, you will:
+
+Provide decision-making support for key projects, and research new ways of modeling data to unlock actionable insights or improve processes.
+Write and review technical documents, including requirements and design documents for existing and future data systems, as well as data standards and policies.
+Partner with non-technical stakeholders to understand their needs, help frame the problem by asking the right questions, and document and prioritize requirements. Communicate results of technical work.
+Design, write, and support extract, transform, and load (ETL) processes to automate data collection and manage pipelines.
+Your education and qualifications include:
+
+BS degree in Information Management, Computer Science, Statistics or similar.
+Experience in AWS administration.
+3 years of experience in an analyst or Data Science role.
+Experience using SQL to work with multiple datasets.
+Experience designing data models and building data structures.
+Experience in a language for statistical computing (R, Python/pandas, Stata, etc.).
+Conditions of Employment:
+
+Must be legally eligible to work in Canada
+A background check, satisfactory to the employer, may be required of the successful applicant prior to commencing employment
+Wellington-Altus Private Wealth is strongly committed to equity and diversity within its community and welcomes applications from women, racialized persons, Indigenous peoples, persons with disabilities, and persons of all sexual orientations and genders. All qualified individuals who would contribute to the further diversification of our organization are encouraged to apply.
+If you require accommodation for the recruitment process, please let us know at the point of application.
